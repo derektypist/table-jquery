@@ -1,4 +1,8 @@
+ # Tables using jQuery
+ 
  Welcome to Tables using jQuery
  
- Use of Font Roboto.
- Adding Classes.
+ ## Technologies
+ 
+ * HTML5
+ * Javascript and jQuery
